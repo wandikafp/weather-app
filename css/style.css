@@ -1,0 +1,56 @@
+body{
+  background-color: #FFFF33;
+  font-family: "Gugi", sans-serif;
+}
+.container-fluid{
+  margin-top: 10%;
+}
+.app{
+  background-color: #f0f0e6;
+  border-radius: 5%;
+  padding-bottom: 5%;
+}
+#location{
+  font-size: 40px;
+}
+.box{
+  border: solid 2px #FFFF33;
+  padding: 10px 10px 20px 10px;
+  border-radius: 3%;
+}
+#weather{
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+.suhu{
+  display: inline;
+  background-color: #FFFF33;
+  border-radius: 1%;
+  padding: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+.temp{
+  cursor:pointer;
+
+  color:#006dcc;
+}
+.temp:hover{
+  color:#005096;
+}
+#humidity{
+  display: inline;
+  background-color: #FFFF33;
+  border-radius: 1%;
+  padding: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+#time{
+  display: inline;
+  background-color: #FFFF33;
+  border-radius: 1%;
+  padding: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
