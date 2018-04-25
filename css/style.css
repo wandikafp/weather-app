@@ -7,7 +7,7 @@ body{
 }
 .app{
   background-color: #f0f0e6;
-  border-radius: 5%;
+  border-radius: 30px;
   padding-bottom: 5%;
 }
 #location{
